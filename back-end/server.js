@@ -51,4 +51,4 @@ app.post('/api/finalizar-compra', (req, res) => {
 });
 
 const PORT = 3000;
-app.listen(PORT, () => console.log(`Servidor Evonium Online na porta ${PORT}`));
+app.listen(PORT, () => console.log(`Servidor Evonium tá na porta ${PORT}`));
